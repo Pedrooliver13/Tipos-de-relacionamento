@@ -16,7 +16,9 @@ RELACIONAMENTOS UM PARA MUITOS<br>
   deverá ser ligado a um curso obrigatóriamente. O campo codigocurso foi escolhido como chave primária na entidade CURSO, ou seja, ela não poderá se repetir. Já na tabela ALUNO, a chave primária é matricula e o codigocurso é chave estrangeira. A representação ficaria assim
 </p>
 
-<img align="center" src="https://sites.google.com/site/uniplibancodedados1/aulas/aula-7---tipos-de-relacionamento/aula_7_relacionamento.bmp?attredirects=0" alt="1:1">
+<p align="center">
+  <img  src="https://sites.google.com/site/uniplibancodedados1/aulas/aula-7---tipos-de-relacionamento/aula_7_relacionamento.bmp?attredirects=0" alt="1:1">
+</p>
 
 Como lemos este relacionamento:<br>
 
