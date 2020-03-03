@@ -35,7 +35,9 @@ UM ALUNO SE MATRICULA EM UM CURSO<br>
 
 <p>Observe a ficha abaixo. Observe a representação do relacionamento. Cada uma das linhas que aparece no formulário do pedido de vendas é, em geral, conhecida no varejo como um item de linha, onde o código da mercadoria é ligado a uma venda.</p>
 
-<img align="center" src="https://sites.google.com/site/uniplibancodedados1/aulas/aula-7---tipos-de-relacionamento/aula_7_relacionamento2.bmp?attredirects=0">
+<p align="center">
+  <img  src="https://sites.google.com/site/uniplibancodedados1/_/rsrc/1348510658318/aulas/aula-7---tipos-de-relacionamento/aula_7_relacionamento2.bmp" alt="1:1">
+</p>
 
 <p>
 A representação desse relacionamento m:m é mostrada na figura acima. Dizemos muitos para muitos porque há dois relacionamentos: CODIGO DA MERCADORIA está relacionado com muitas VENDAS e VENDA está relacionada com muitos CÓDIGOS DE MERCADORIA.
