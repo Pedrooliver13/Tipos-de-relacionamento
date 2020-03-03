@@ -46,4 +46,12 @@ A representação desse relacionamento m:m é mostrada na figura acima. Dizemos 
 <p>
   No caso do nosso exemplo, a entidade associativa é a VENDA_MERCADORIA. Podemos fazer a leitura do relacionamento acima da seguinte forma:
 </p>
+UMA VENDA POSSUI VÁRIOS ITENS DE MERCADORIA<br>
+CADA MERCADORIA PODERÁ ESTAR LIGADO À VÁRIAS VENDAS<br>
 
+
+
+<h3>Por que criamos uma terceira entidade ?</h3>
+<p>
+  Quando temos um relacionamento m:m e precisamos manter informações sobre este relacionamento, criamos uma entidade associativa para armazenar informações sobre o relacionamento. Neste caso, armazenamos dados sobre as mercadorias vendidas. Não podemos armazenar estes dados em VENDAS, pois uma venda pode ter muitos itens e uma entidade só armazena ocorrências de valores simples. Da mesma maneira, não podemos armazenar esses dados em MERCADORIAS, porque um código de mercadoria pode aparecer em muitas vendas.
+</p>
