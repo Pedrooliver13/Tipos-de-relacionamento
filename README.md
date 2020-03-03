@@ -1,4 +1,4 @@
-<h2><strong>TIPOS DE RELACIONAMENTO</strong</h2>
+<h2><strong>TIPOS DE RELACIONAMENTO</strong></h2>
 
 <p>De acordo com a cardinalidade existem 3 tipos básicos de relacionamentos entre as entidades.</p>
 
@@ -8,7 +8,7 @@ RELACIONAMENTOS MUITOS PARA MUITOS<br>
 RELACIONAMENTOS UM PARA MUITOS<br>
 
 
-<h2>RELACIONAMENTO UM PARA MUITOS (U:M)M</h2>
+<h2>RELACIONAMENTO UM PARA MUITOS (U:M)</h2>
 
 <p>
   Um relacionamento 1:m ocorre com freqüência em situações de negócio. Às vezes ocorre em forma de árvore ou em forma hierárquica. 
